@@ -1,0 +1,4 @@
+/home/om/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/HardwareStatus.idl
+/home/om/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:msg/LedStatus.idl
+/home/om/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/ComputeRectangleArea.idl
+/home/om/ros2_ws/build/my_robot_interfaces/rosidl_adapter/my_robot_interfaces:srv/BatteryStatusLed.idl

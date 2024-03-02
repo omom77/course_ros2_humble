@@ -1,0 +1,4 @@
+int32 battery_level
+string led_condition
+---
+bool  success

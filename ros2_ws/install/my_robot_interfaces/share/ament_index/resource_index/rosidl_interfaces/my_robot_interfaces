@@ -1,0 +1,12 @@
+msg/HardwareStatus.idl
+msg/HardwareStatus.msg
+msg/LedStatus.idl
+msg/LedStatus.msg
+srv/BatteryStatusLed.idl
+srv/BatteryStatusLed.srv
+srv/BatteryStatusLed_Request.msg
+srv/BatteryStatusLed_Response.msg
+srv/ComputeRectangleArea.idl
+srv/ComputeRectangleArea.srv
+srv/ComputeRectangleArea_Request.msg
+srv/ComputeRectangleArea_Response.msg
