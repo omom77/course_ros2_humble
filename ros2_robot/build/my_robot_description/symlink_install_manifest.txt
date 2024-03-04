@@ -1,6 +1,7 @@
 /home/om/ros2_robot/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
 /home/om/ros2_robot/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
 /home/om/ros2_robot/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+/home/om/ros2_robot/install/my_robot_description/share/my_robot_description//urdf/test_parrot_gazebo.xacro
 /home/om/ros2_robot/install/my_robot_description/share/my_robot_description//launch/display.launch.py
 /home/om/ros2_robot/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
 /home/om/ros2_robot/install/my_robot_description/share/my_robot_description//rviz/my_robot.rviz
